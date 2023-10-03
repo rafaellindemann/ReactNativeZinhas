@@ -47,7 +47,7 @@ export default function App() {
         title='DOIS'
         onPress={ dois}
       />
-      
+
       <Text>=======================================</Text>
       <StatusBar style="auto" />
     </View>
