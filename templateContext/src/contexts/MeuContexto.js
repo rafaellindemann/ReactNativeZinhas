@@ -1,4 +1,4 @@
-// MeuContexto.js
+// ./src/contexts/MeuContexto.js
 import React, { createContext, useContext, useState } from 'react';
 
 const MeuContexto = createContext();

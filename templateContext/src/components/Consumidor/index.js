@@ -1,4 +1,5 @@
 // Um componente React Native que consome o contexto
+// ./src/components/Consumidor/index.js
 import React from 'react';
 import { View, Text, Button } from 'react-native';
 import { useMeuContexto } from '../../contexts/MeuContexto';
